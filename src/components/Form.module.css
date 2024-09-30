@@ -1,0 +1,50 @@
+/* Styling for the form container */
+.formContainer {
+    padding: 20px;
+    border-color: #00b4d8;
+    border-style: solid;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  
+/* Styling for the form heading */
+.formHeading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+  
+/* Styling for form labels */
+.formLabel {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+  
+/* Styling for form input fields */
+.formInput {
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 15px; /* Adds space between the fields */
+    border: 1px solid #00b4d8;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.button {
+    background-color: #00b4d8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 1em;
+}
+  
+.button:hover {
+    background-color: #0096c7;
+}
+  
