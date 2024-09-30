@@ -4,6 +4,7 @@ import Counter from './components/Counter';
 import ContactForm from './components/ContactForm';
 import LoginForm from './components/LoginForm';
 import EventRegistrationForm from './components/EventRegistrationForm';
+import CountExample from './components/CountExample';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <ContactForm />
       <LoginForm />
       <EventRegistrationForm />
+      <CountExample />
     </div>
   );
 }
